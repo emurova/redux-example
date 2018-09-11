@@ -8,7 +8,8 @@
     "test": "ng test",
     "test-and-coverage": "ng test --code-coverage",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "yarn run": "ng serve -o"
   },
   "private": true,
   "dependencies": {
